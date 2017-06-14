@@ -6,3 +6,9 @@
 
 # [Abstract Method](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Creational/AbstractFactory.playground/Contents.swift)
 [![Alt text](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/images/AbstractFactory.jpg)](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Creational/AbstractFactory.playground/Contents.swift)
+
+# [Builder](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Creational/Builder.playground/Contents.swift)
+[![Alt text](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/images/Builder.jpg)](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Creational/Builder.playground/Contents.swift)
+
+# [Abstract Method](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Creational/Singleton.playground/Contents.swift)
+[![Alt text](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/images/Singleton.jpg)](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Creational/Singleton.playground/Contents.swift)
