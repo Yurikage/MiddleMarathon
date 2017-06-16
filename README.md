@@ -1,4 +1,4 @@
-
+[Prototype](https://github.com/petrovRV/MiddleMarathon/blob/master/README.md#prototype)
 
 # [Prototype](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Creational/Prototype.playground/Contents.swift)
 [![Alt text](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/images/Prototype.jpg)](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Creational/Prototype.playground/Contents.swift)
