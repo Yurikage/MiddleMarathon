@@ -1,17 +1,17 @@
-# Creational patterns
+## Creational patterns
 1. [Prototype](https://github.com/petrovRV/MiddleMarathon/blob/master/README.md#prototype)
 2. [Factory Method](https://github.com/petrovRV/MiddleMarathon/blob/master/README.md#factory-method)
 3. [Abstract Method](https://github.com/petrovRV/MiddleMarathon/blob/master/README.md#abstract-method)
 4. [Builder](https://github.com/petrovRV/MiddleMarathon/blob/master/README.md#builder)
 5. [Singleton](https://github.com/petrovRV/MiddleMarathon/blob/master/README.md#singleton)
 
-# Structural patterns
+## Structural patterns
 1. [Adapter](https://github.com/petrovRV/MiddleMarathon/blob/master/README.md#adapter)
 2. [Bridge](https://github.com/petrovRV/MiddleMarathon/blob/master/README.md#bridge)
 
-# Behavioral patterns
+## Behavioral patterns
 
-# [Prototype](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Creational/Prototype.playground/Contents.swift)
+## [Prototype](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Creational/Prototype.playground/Contents.swift)
 [![Alt text](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/images/Prototype.jpg)](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Creational/Prototype.playground/Contents.swift)
 
 # [Factory Method](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Creational/FactoryMethod.playground/Contents.swift)
