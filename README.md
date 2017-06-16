@@ -1,3 +1,5 @@
+
+
 # [Prototype](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Creational/Prototype.playground/Contents.swift)
 [![Alt text](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/images/Prototype.jpg)](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Creational/Prototype.playground/Contents.swift)
 
@@ -15,3 +17,6 @@
 
 # [Adapter](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Structural/Adapter.playground/Contents.swift)
 [![Alt text](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/images/Adapter.jpg)](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Structural/Adapter.playground/Contents.swift)
+
+# [Bridge](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Structural/Bridge.playground/Contents.swift)
+[![Alt text](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/images/Bridge.jpg)](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Structural/Bridge.playground/Contents.swift)
