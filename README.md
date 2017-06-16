@@ -12,3 +12,6 @@
 
 # [Singleton](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Creational/Singleton.playground/Contents.swift)
 [![Alt text](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/images/Singleton.jpg)](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Creational/Singleton.playground/Contents.swift)
+
+# [Adapter](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Structural/Adapter.playground/Contents.swift)
+[![Alt text](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/images/Adapter.jpg)](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Structural/Adapter.playground/Contents.swift)
