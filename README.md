@@ -4,9 +4,11 @@
 3. [Abstract Method](https://github.com/petrovRV/MiddleMarathon/blob/master/README.md#abstract-method)
 4. [Builder](https://github.com/petrovRV/MiddleMarathon/blob/master/README.md#builder)
 5. [Singleton](https://github.com/petrovRV/MiddleMarathon/blob/master/README.md#singleton)
+
 #Structural patterns
 1. [Adapter](https://github.com/petrovRV/MiddleMarathon/blob/master/README.md#adapter)
 2. [Bridge](https://github.com/petrovRV/MiddleMarathon/blob/master/README.md#bridge)
+
 #Behavioral patterns
 
 # [Prototype](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Creational/Prototype.playground/Contents.swift)
