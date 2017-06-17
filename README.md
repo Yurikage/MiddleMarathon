@@ -10,7 +10,8 @@
 2. [Bridge](https://github.com/petrovRV/MiddleMarathon/blob/master/README.md#bridge)
 
 ## Behavioral patterns
-2. [Bridge](https://github.com/petrovRV/MiddleMarathon/blob/master/README.md#mediator)
+1. [Bridge](https://github.com/petrovRV/MiddleMarathon/blob/master/README.md#mediator)
+2. [Observer](https://github.com/petrovRV/MiddleMarathon/blob/master/README.md#observer)
 
 # Patterns list
 
@@ -37,3 +38,6 @@
 
 # [Mediator](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Behavioral/Mediator.playground/Contents.swift)
 [![Alt text](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/images/Mediator.jpg)](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Behavioral/Mediator.playground/Contents.swift)
+
+# [Observer](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Behavioral/Observer.playground/Contents.swift)
+[![Alt text](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/images/Observer.jpg)](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Behavioral/Observer.playground/Contents.swift)
