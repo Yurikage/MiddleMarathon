@@ -12,7 +12,7 @@
 4. [Composite](https://github.com/petrovRV/MiddleMarathon/blob/master/README.md#composite)
 
 ## Behavioral patterns
-1. [Bridge](https://github.com/petrovRV/MiddleMarathon/blob/master/README.md#mediator)
+1. [Mediator](https://github.com/petrovRV/MiddleMarathon/blob/master/README.md#mediator)
 2. [Observer](https://github.com/petrovRV/MiddleMarathon/blob/master/README.md#observer)
 3. [Iterator](https://github.com/petrovRV/MiddleMarathon/blob/master/README.md#iterator)
 4. [Visitor](https://github.com/petrovRV/MiddleMarathon/blob/master/README.md#visitor)
