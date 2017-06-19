@@ -32,6 +32,9 @@
 # [Singleton](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Creational/Singleton.playground/Contents.swift)
 [![Alt text](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/images/Singleton.jpg)](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Creational/Singleton.playground/Contents.swift)
 
+# [Composite](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Structural/Composite.playground/Contents.swift)
+[![Alt text](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/images/Composite.jpg)](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Structural/Composite.playground/Contents.swift)
+
 # [Adapter](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Structural/Adapter.playground/Contents.swift)
 [![Alt text](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/images/Adapter.jpg)](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Structural/Adapter.playground/Contents.swift)
 
@@ -43,9 +46,6 @@
 
 # [Observer](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Behavioral/Observer.playground/Contents.swift)
 [![Alt text](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/images/Observer.jpg)](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Behavioral/Observer.playground/Contents.swift)
-
-# [Composite](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Structural/Composite.playground/Contents.swift)
-[![Alt text](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/images/Composite.jpg)](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Structural/Composite.playground/Contents.swift)
 
 # [Iterator](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Behavioral/Iterator.playground/Contents.swift)
 [![Alt text](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/images/Iterator.jpg)](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Behavioral/Iterator.playground/Contents.swift)
