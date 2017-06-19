@@ -8,12 +8,13 @@
 ## Structural patterns
 1. [Adapter](https://github.com/petrovRV/MiddleMarathon/blob/master/README.md#adapter)
 2. [Bridge](https://github.com/petrovRV/MiddleMarathon/blob/master/README.md#bridge)
-2. [Composite](https://github.com/petrovRV/MiddleMarathon/blob/master/README.md#composite)
+3. [Composite](https://github.com/petrovRV/MiddleMarathon/blob/master/README.md#composite)
 
 ## Behavioral patterns
 1. [Bridge](https://github.com/petrovRV/MiddleMarathon/blob/master/README.md#mediator)
 2. [Observer](https://github.com/petrovRV/MiddleMarathon/blob/master/README.md#observer)
-2. [Iterator](https://github.com/petrovRV/MiddleMarathon/blob/master/README.md#iterator)
+3. [Iterator](https://github.com/petrovRV/MiddleMarathon/blob/master/README.md#iterator)
+4. [Visitor](https://github.com/petrovRV/MiddleMarathon/blob/master/README.md#visitor)
 
 # Patterns list
 
@@ -49,3 +50,7 @@
 
 # [Iterator](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Behavioral/Iterator.playground/Contents.swift)
 [![Alt text](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/images/Iterator.jpg)](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Behavioral/Iterator.playground/Contents.swift)
+
+
+# [Visitor](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Behavioral/Visitor.playground/Contents.swift)
+[![Alt text](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/images/Visitor.jpg)](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Behavioral/Visitor.playground/Contents.swift)
