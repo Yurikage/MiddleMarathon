@@ -8,7 +8,8 @@
 ## Structural patterns
 1. [Adapter](https://github.com/petrovRV/MiddleMarathon/blob/master/README.md#adapter)
 2. [Bridge](https://github.com/petrovRV/MiddleMarathon/blob/master/README.md#bridge)
-3. [Composite](https://github.com/petrovRV/MiddleMarathon/blob/master/README.md#composite)
+3. [Facade](https://github.com/petrovRV/MiddleMarathon/blob/master/README.md#facade)
+4. [Composite](https://github.com/petrovRV/MiddleMarathon/blob/master/README.md#composite)
 
 ## Behavioral patterns
 1. [Bridge](https://github.com/petrovRV/MiddleMarathon/blob/master/README.md#mediator)
@@ -33,14 +34,17 @@
 # [Singleton](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Creational/Singleton.playground/Contents.swift)
 [![Alt text](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/images/Singleton.jpg)](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Creational/Singleton.playground/Contents.swift)
 
-# [Composite](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Structural/Composite.playground/Contents.swift)
-[![Alt text](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/images/Composite.jpg)](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Structural/Composite.playground/Contents.swift)
-
 # [Adapter](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Structural/Adapter.playground/Contents.swift)
 [![Alt text](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/images/Adapter.jpg)](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Structural/Adapter.playground/Contents.swift)
 
 # [Bridge](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Structural/Bridge.playground/Contents.swift)
 [![Alt text](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/images/Bridge.jpg)](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Structural/Bridge.playground/Contents.swift)
+
+# [Facade](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Structural/Facade.playground/Contents.swift)
+[![Alt text](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/images/Facade.jpg)](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Structural/Facade.playground/Contents.swift)
+
+# [Composite](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Structural/Composite.playground/Contents.swift)
+[![Alt text](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/images/Composite.jpg)](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Structural/Composite.playground/Contents.swift)
 
 # [Mediator](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Behavioral/Mediator.playground/Contents.swift)
 [![Alt text](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/images/Mediator.jpg)](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Behavioral/Mediator.playground/Contents.swift)
