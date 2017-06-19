@@ -13,6 +13,7 @@
 ## Behavioral patterns
 1. [Bridge](https://github.com/petrovRV/MiddleMarathon/blob/master/README.md#mediator)
 2. [Observer](https://github.com/petrovRV/MiddleMarathon/blob/master/README.md#observer)
+2. [Iterator](https://github.com/petrovRV/MiddleMarathon/blob/master/README.md#iterator)
 
 # Patterns list
 
@@ -45,3 +46,6 @@
 
 # [Composite](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Structural/Composite.playground/Contents.swift)
 [![Alt text](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/images/Composite.jpg)](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Structural/Composite.playground/Contents.swift)
+
+# [Iterator](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Behavioral/Iterator.playground/Contents.swift)
+[![Alt text](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/images/Iterator.jpg)](https://github.com/petrovRV/MiddleMarathon/blob/master/Patterns/Behavioral/Iterator.playground/Contents.swift)
